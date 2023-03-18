@@ -102,32 +102,6 @@ public class Percolation {
 
   // test client (optional)
   public static void main(String[] args) {
-    // int n = 2;
-    // Percolation mock = new Percolation(n);
-    // int attempCount = 0;
-    // int[] rowColLeftArray = new int[n * n];
-    // for (int i = 0; i < rowColLeftArray.length; i++) {
-    // rowColLeftArray[i] = i;
-    // }
 
-    // while (!mock.percolates()) {
-    // attempCount += 1;
-    // StdOut.println("attemp: " + attempCount);
-    // int randIndex = StdRandom.uniformInt(rowColLeftArray.length);
-    // mock.open(rowColLeftArray[randIndex] / n + 1, rowColLeftArray[randIndex] % n
-    // + 1);
-
-    // int[] newRowColLeftArray = new int[rowColLeftArray.length - 1];
-    // for (int i = 0, k = 0; i < rowColLeftArray.length; i++) {
-    // if (i == randIndex) {
-    // continue;
-    // }
-    // newRowColLeftArray[k++] = rowColLeftArray[i];
-    // }
-    // rowColLeftArray = newRowColLeftArray;
-    // }
-
-    // StdOut.println("Success. attemp: " + mock.openSiteCount + ", total: " + (n *
-    // n));
   }
 }
