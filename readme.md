@@ -1,5 +1,5 @@
 # Description
-This repo contains my solutions for the [Algorithm Part 1](https://www.coursera.org/learn/algorithms-part1) course assignments.
+This repository contains my solutions for the [Algorithm Part 1](https://www.coursera.org/learn/algorithms-part1) course assignments.
 
 ## Inner-folders descriptions:
 - <strong>hello</strong>: Solution for the week 1 section "Percolation" assignment. Activities involved: using a weighted union data structure to solve a scientific problem called percolation. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
