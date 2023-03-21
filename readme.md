@@ -36,6 +36,6 @@ Solution for the week 5 section "Geometric Application of BSTs" assignment. Acti
 
 ### Score Report ###
 
-Below is the assignment score report for the solutions
+Below is the assignment score report of the solutions
 
 ![Score report](algorithm-1-score.png)
