@@ -32,3 +32,10 @@ Solution for the week 4 section "Priority Queues" assignment. Activities involve
 **5. kdtree**
 
 Solution for the week 5 section "Geometric Application of BSTs" assignment. Activities involved: making a Kd-tree-like data structure to range search points intersecting a given rectangle and find the nearest point of a given position. [Learn more](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php)
+
+
+### Score Report ###
+
+Below is the assignment score report for the solutions
+
+![Score report](algorithm-1-score.png)
