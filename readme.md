@@ -1,10 +1,10 @@
-# Coursera Algorithms, Part 1
+# Algorithms, Part 1
 
 ![Completion status: completed](https://img.shields.io/badge/COMPLETION%20STATUS-COMPLETED-success?style=for-the-badge)
 
 ## Description
 
-This repository contains my solutions for the [Algorithm Part 1](https://www.coursera.org/learn/algorithms-part1) course assignments.
+This repository contains my solutions for the [Algorithm Part 1](https://www.coursera.org/learn/algorithms-part1) course assignments on Coursera.
 
 
 ### Folder details
